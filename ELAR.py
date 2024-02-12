@@ -1,7 +1,5 @@
 import streamlit as st
 import requests
-import streamlit_lottie
-import pillow
 from PIL import Image
 from streamlit_option_menu import option_menu
 
