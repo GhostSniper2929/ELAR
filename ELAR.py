@@ -101,7 +101,7 @@ Consider the undeniable scientific evidence linking sufficient sleep to improved
     with st.container():
         st.write("---")
         st.subheader("Purpose of this article")
-        st.write("The purpose of this article is to raise awareness about the critical need for high school students to prioritize sleep and to advocate for systemic changes that promote healthier sleep habits.")        
+        st.write("The purpose of this article is to raise awareness about the critical need for high school students to prioritize sleep and to advocate for systemic changes that promote healthier sleep habits. So let's rise up, together, and make sleep a priority. Let's stand in solidarity with our teenagers, advocating for the changes they so desperately need. The time to act is now. The time to wake up to the importance of high school sleep is long overdue.")        
 
 # ---TESTIMONIALS---
 if selected == "Testimonials":
