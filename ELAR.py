@@ -92,7 +92,7 @@ Consider the undeniable scientific evidence linking sufficient sleep to improved
         left_column, right_column = st.columns(2)
         with left_column:
             st.subheader("Strategies for Promoting Healthy Sleep Habits")
-            st.write("Addressing the sleep crisis among high school students necessitates a multifaceted approach. Schools, parents, and communities must collaborate to prioritize sleep health and implement strategies to support adolescents in cultivating healthy sleep habits.")
+            st.write("Addressing the sleep crisis among high school students necessitates a multifaceted approach. Schools, parents, and communities must collaborate to prioritize sleep health and implement strategies to support adolescents in cultivating healthy sleep habits. Imagine the stress and exhaustion experienced by a typical high schooler balancing homework, exams, social obligations, and extracurricular activities, all while struggling to get adequate rest each night.")
 
         with right_column:
             img = Image.open('WeNeedYourHelp.png')
