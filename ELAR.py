@@ -74,6 +74,8 @@ The consequences of sleep deprivation among high schoolers are far-reaching. Bey
 Educators and policymakers must prioritize the well-being of students by implementing later start times for high schools. Research consistently demonstrates that delaying the start of the school day results in improved academic performance, reduced absenteeism, and enhanced mental health among adolescents.
 
 Furthermore, parents play a pivotal role in fostering healthy sleep habits at home. Encouraging a consistent sleep schedule, limiting screen time before bed, and creating a conducive sleep environment are essential steps in promoting adequate rest for teenagers.
+
+Consider the undeniable scientific evidence linking sufficient sleep to improved academic performance, emotional resilience, and overall health outcomes for high school students.
 """)
              st.write("---")
              st.subheader("My Opinion")
